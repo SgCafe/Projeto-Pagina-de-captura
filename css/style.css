@@ -26,7 +26,7 @@ header{
 
 section{
     padding:20px;
-    background-image: url('/Captura/assets/people.jpg');
+    background-image: url('/Projeto-Pagina-de-captura/assets/people.jpg');
     background-size: cover;
     overflow:hidden;
 }
@@ -65,7 +65,7 @@ select{
     -webkit-appearance: none;
     appearance: none;
 
-    background-image: url('./Captura/assets/arrow.jpg');
+    background-image: url('/Projeto-Pagina-de-captura/assets/arrow.jpg');
     background-repeat: no-repeat;
 
     background-position: calc(100% - 10px) center;
